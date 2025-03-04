@@ -15,6 +15,7 @@
   - <b>개최안</b> : [공모전 개최(안).pdf](https://github.com/passion3659/2023_Crime_Safety_Data_Analysis_Competition/files/11648459/default.pdf)
 
 ## 분석 배경 및 프로세스
+- <b>프로젝트명</b> HDBSCAN을 활용한 교통사고 Hotspot 분석 및 예측
 - <b>분석 배경</b>
   - 본 프로젝트에서는 스마트 치안 빅데이터 플랫폼에서 제공한 데이터를 활용하여 충남, 세종, 대전의 교통사고 발생 현황을 분석하고 교통사고를 선제적으로 예측할 수 있는 모델을 생성한다. 
   - 교통사고와 관련된 데이터를 수집하여 교통사고 Hotspot을 분석하고, 주요 Hotspot의 교통사고 발생을 예측한다.
